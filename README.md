@@ -1,5 +1,5 @@
 <img src="https://www.bing.com/th/id/OGC.75c2f842863ae2df6b3ac2d0a4d63026?pid=1.7&rurl=https%3a%2f%2fmedia.giphy.com%2fmedia%2f26tn33aiTi1jkl6H6%2fgiphy.gif&ehk=LCiNXmDg%2fXTgb0Vi0JGHo4wmNkgdBlRmA3Y17tB9YLU%3d" alt="Head" style="width: 100%;
-height: auto;">
+height: 300px;">
 <h1 align="center">Hi 👋, I'm Tapas Jyoti Mohanta</h1>
 <h3 align="center">Exploring the depth of Computer Science...</h3>
 <img align="rihgt" alt="Coding" width="400"src="https://media1.tenor.com/images/cd37fa49c983ac905df0016fd5b6a2ee/tenor.gif?itemid=13165216">
