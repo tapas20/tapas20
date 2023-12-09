@@ -6,7 +6,7 @@ height: 300px;">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tapas20&label=Profile%20views&color=0e75b6&style=flat" alt="tapas20" /> </p>
 
-<p align="left"> <a href="https://twitter.com/tapas jyoti mohanta" target="blank"><img src="https://img.shields.io/twitter/follow/tapas jyoti mohanta?logo=twitter&style=for-the-badge" alt="tapas jyoti mohanta" /></a> </p>
+<p align="left"> <a href="https://twitter.com/tapas_jyoti_20" target="blank"><img src="https://img.shields.io/twitter/follow/tapas jyoti mohanta?logo=twitter&style=for-the-badge" alt="tapas jyoti mohanta" /></a> </p>
 - 🌱 I’m currently learning **DSA , MEARN**
 
 - 💬 Ask me about **JAVA**
