@@ -8,7 +8,7 @@ height: 300px;">
 
 <p align="left"> <a href="https://twitter.com/tapas_jyoti_20" target="blank"><img src="https://img.shields.io/twitter/follow/tapas jyoti mohanta?logo=twitter&style=for-the-badge" alt="tapas jyoti mohanta" /></a> </p>
 
-- 🌱 I’m currently learning **DSA , MEARN**
+- 🌱 I’m currently learning **DSA , MERN**
 
 - 💬 Ask me about **JAVA**
 
