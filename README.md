@@ -1,4 +1,4 @@
-<img src="https://www.bing.com/th/id/OGC.75c2f842863ae2df6b3ac2d0a4d63026?pid=1.7&rurl=https%3a%2f%2fmedia.giphy.com%2fmedia%2f26tn33aiTi1jkl6H6%2fgiphy.gif&ehk=LCiNXmDg%2fXTgb0Vi0JGHo4wmNkgdBlRmA3Y17tB9YLU%3d" alt="Head" style="width: 100%;
+<img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/bbefa799786133.5efa9bf3d1b49.gif" alt="Head" style="width: 100%;
 height: 300px;">
 <h1 align="center">Hi 👋, I'm Tapas Jyoti Mohanta</h1>
 <h3 align="center">Exploring the depth of Computer Science...</h3>
