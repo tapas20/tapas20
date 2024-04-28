@@ -1,5 +1,4 @@
-<img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/bbefa799786133.5efa9bf3d1b49.gif" alt="Head" style="width: 100%;
-height: 300px;">
+<img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/bbefa799786133.5efa9bf3d1b49.gif" alt="Head" style="width: 200%;">
 <h1 align="center">Hi 👋, I'm Tapas Jyoti Mohanta</h1>
 <h3 align="center">Exploring the depth of Computer Science...</h3>
 <img align="right" alt="Coding" width="400"src="https://media1.tenor.com/images/cd37fa49c983ac905df0016fd5b6a2ee/tenor.gif?itemid=13165216">
