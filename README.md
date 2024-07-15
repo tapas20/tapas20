@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/tapas_jyoti_20" target="blank"><img src="https://img.shields.io/twitter/follow/tapas jyoti mohanta?logo=twitter&style=for-the-badge" alt="tapas jyoti mohanta" /></a> </p>
 
-- 🌱 I’m currently learning **DSA , MERN**
+- 🌱 I’m currently learning **DSA , MERN , Blockchain**
 
-- 💬 Ask me about **JAVA**
+- 💬 Ask me about **JAVA, DSA**
 
-- 📫 How to reach me **tapasjyoti8327@gmail.com**
+- 📫 How to reach me **tapasjyotimohanta@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
