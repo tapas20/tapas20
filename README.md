@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/tapas_jyoti_20" target="blank"><img src="https://img.shields.io/twitter/follow/tapas jyoti mohanta?logo=twitter&style=for-the-badge" alt="tapas jyoti mohanta" /></a> </p>
 
-- 🌱 I’m currently working in **MERN , Blockchain**
+- 🌱 I’m currently working with **MERN , Blockchain**
 
 - 💬 Ask me about **JAVA, DSA, Blockchain, MERN**
 
