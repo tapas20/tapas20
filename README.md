@@ -8,10 +8,6 @@
 
 <h3 align="center">🚀 Exploring the depth of Computer Science & Building Scalable Solutions</h3>
 
-<div align="center">
-  <img src="https://media1.tenor.com/images/cd37fa49c983ac905df0016fd5b6a2ee/tenor.gif?itemid=13165216" alt="Coding" width="400">
-</div>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=tapas20&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
   <a href="https://twitter.com/tapas_jyoti_20" target="_blank">
