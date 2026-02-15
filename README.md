@@ -142,23 +142,6 @@
 - Implemented **real-time tracking (Socket.IO + Mapbox)**, **Razorpay payments**, **Firebase auth/notifications**, **Redux state**
 - Tech: **React, Node, Express, MongoDB, Socket.IO, Mapbox, Redux, Firebase, Razorpay, Tailwind**
 
----
-
-## 🧩 Projects
-
-- **DevConnect** — Developer networking platform (JWT auth, profiles, connections)  
-  Tech: React, Node, Express, MongoDB, JWT, Tailwind
-
-- **Camping Website** — Full-stack listing/booking app (auth, CRUD, uploads, reviews, bookings)  
-  Tech: Node, Express, MongoDB, EJS, MVC, HTML/CSS/JS
-
-- **Food Ordering Website** — Swiggy API based app, Redux, routing, performance improvements  
-  Tech: React, Redux, React Router, Tailwind, Parcel, Babel
-
-> Tip: Add your GitHub/Live links in each project line once ready.
-
----
-
 ## 📌 Quick Links
 
 - GitHub: https://github.com/tapas20  
