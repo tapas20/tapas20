@@ -131,7 +131,7 @@
 
 ## 💼 Experience Highlights
 
-### 🏢 Jyesta Corporate Entity — Software Engineer Intern (Oct 2025 – Present)
+### 🏢 Jyesta Corporate Entity — Software Engineer Intern (Oct 2025 – Feb 2026)
 - Built a cross-platform **EdTech mobile app (React Native)** integrated with **Node.js/Express + MongoDB**
 - Delivered new **REST APIs** for auth, learning workflows, scalable data retrieval
 - Built an automated **HRM portal** for hiring pipeline (GD → PI → Offer/Joining) with workflow automation + doc/email generation
