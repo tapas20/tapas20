@@ -30,7 +30,7 @@
     <a href="https://twitter.com/tapas_jyoti_20" target="_blank">
       <img src="https://img.shields.io/badge/Twitter%20(X)-111111?style=for-the-badge&amp;logo=x&amp;logoColor=white" alt="Twitter/X" />
     </a>
-    <a href="https://instagram.com/tapas_jyoti20" target="_blank">
+    <a href="https://instagram.com/tapasjyoti_20" target="_blank">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" alt="Instagram" />
     </a>
     <a href="https://fb.com/tapasjyoti.mohanta" target="_blank">
