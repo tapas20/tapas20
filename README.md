@@ -131,17 +131,29 @@
 
 ## 💼 Experience Highlights
 
+### 🏢 Aptisure Learning — Software Engineer (Feb 2026 – Present)
+- Developing enterprise-grade **CRM** and **Employee Portal** solutions for large-scale business operations.
+- Building scalable **workflow automation** systems for HR, employee management, attendance, leave, and organizational processes.
+- Implementing **geofenced and biometric attendance tracking** with real-time monitoring and reporting.
+- Designing and developing secure **REST APIs**, authentication, role-based access control (RBAC), and business workflow services.
+- Building cloud-native backend services and deploying scalable applications on **AWS**.
+- Collaborating with cross-functional teams to deliver production-ready, high-performance web applications.
+- **Tech:** Next.js, React.js, Node.js, Express.js, MongoDB, MySQL, Redis, AWS (ECS, EC2, S3, SES, SNS, SQS), Docker, TypeScript
+
 ### 🏢 Jyesta Corporate Entity — Software Engineer Intern (Oct 2025 – Feb 2026)
-- Built a cross-platform **EdTech mobile app (React Native)** integrated with **Node.js/Express + MongoDB**
-- Delivered new **REST APIs** for auth, learning workflows, scalable data retrieval
-- Built an automated **HRM portal** for hiring pipeline (GD → PI → Offer/Joining) with workflow automation + doc/email generation
-- Tech: **React Native, Next.js, Node.js, Express, MongoDB, AWS (ECS/SES/S3/SNS/SQS)**
+- Built a cross-platform **EdTech mobile application** using **React Native**, integrated with a **Node.js/Express** backend and **MongoDB**.
+- Developed scalable **REST APIs** for authentication, learning workflows, and efficient data retrieval.
+- Built an automated **HRM Portal** managing the complete hiring pipeline (GD → PI → Offer → Joining) with workflow automation, document generation, and email notifications.
+- Integrated multiple AWS services to improve scalability and application reliability.
+- **Tech:** React Native, Next.js, Node.js, Express.js, MongoDB, AWS (ECS, SES, S3, SNS, SQS)
 
-### 🚌 Shradha Software Pvt. Ltd — Full Stack Developer Intern (Jul 2025 – Oct 2025)
-- Built a full-stack **Bus Management System** (ticket booking + rental + real-time tracking)
-- Implemented **real-time tracking (Socket.IO + Mapbox)**, **Razorpay payments**, **Firebase auth/notifications**, **Redux state**
-- Tech: **React, Node, Express, MongoDB, Socket.IO, Mapbox, Redux, Firebase, Razorpay, Tailwind**
-
+### 🚌 Shradha Software Pvt. Ltd. — Full Stack Developer Intern (Jul 2025 – Oct 2025)
+- Built a production-ready **Bus Management System** supporting online ticket booking, bus rentals, and fleet management.
+- Implemented **real-time bus tracking** using **Socket.IO** and **Mapbox**.
+- Integrated **Razorpay** for secure online payments and **Firebase** for authentication and push notifications.
+- Managed complex application state using **Redux** and built responsive UI with **Tailwind CSS**.
+- **Tech:** React.js, Node.js, Express.js, MongoDB, Socket.IO, Mapbox, Redux, Firebase, Razorpay, Tailwind CSS
+  
 ## 📌 Quick Links
 
 - GitHub: https://github.com/tapas20  
